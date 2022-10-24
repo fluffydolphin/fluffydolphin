@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/1c/31/53/1c3153edda3c41aa1de32b2c6acb6fcf.jpg"  />
   <img src=https://github-readme-stats.vercel.app/api?username=fluffydolphin&show_icons=true&theme=radical
 </div>
 
