@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="center">I am from Russia and currently live in New Zealand, I am 592 years old.</p>
+<p align="center">GIGA CHAD</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">- Discord: rye#7685 <br>- Telegram: @rye_1</p>
+<p align="center"></p>
 
 ###
 
