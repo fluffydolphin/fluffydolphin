@@ -20,16 +20,6 @@
 
 ###
 
-<h1 align="center">About me</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">GIGA CHAD</p>
-
-###
-
 <h1 align="center">Contact</h1>
 
 ###
